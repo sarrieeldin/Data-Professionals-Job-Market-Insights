@@ -2,20 +2,18 @@
 
 Hello and welcome! This repository contains all the data analysis (and related) projects I’ve worked on. I’ll be adding more projects here over time, so be sure to check back for updates.
 
-## Projects Included
+## Projects Included:
 
 ## Project 1 : **Data Professionals - Job Market Insights**  
 A Power BI project that uncovers insights from a survey of 600+ data professionals around the world.
 
-## Project 2
-**World Life Expectancy**  
+## Project 2: **World Life Expectancy**  
 Exploratory data analysis using SQL to uncover global life expectancy trends.
 
-## Project 3
-**US Household Incomes**  
+## Project 3: **US Household Incomes**  
 Exploratory data analysis examining household income data across the United States.
 
-## How to Use
+## How to View/Download these projects
 
 1. Clone or download this repository.
 2. Explore each project folder for its specific documentation, code, and data.
