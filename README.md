@@ -2,7 +2,7 @@
 
 ## Overview
 
-Ever wonder how others in the data industry got started, what keeps them motivated, and how they navigate career uncertainties? This project analyzes a dataset from a survey supported by Alex Freberg (Alex The Analyst on YouTube), capturing responses from 626 data professionals. It provides insights into salaries, job roles, industry trends, and career transitions.
+Ever wonder how others in the data industry got started, what keeps them motivated, and how they navigate career uncertainties? This project analyzes a dataset from a real-world official survey ,supported by Alex Freberg (Alex The Analyst on YouTube), capturing responses from 626 data professionals. It provides insights into salaries, job roles, industry trends, and career transitions.
 
 ## Table of Contents
 - [Methodology](#methodology)
